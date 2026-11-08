@@ -28,6 +28,27 @@
 | 2.1.1 / 8.1.1 通用版 | ZTE_STB_Tools_V2.1.1_T02、V8.1.1_C02 |
 | 通杀版（2.0.0、1.1.0 等） | V1.1.0_T07、V2.0.0_T02、V2.0.0_T04、中兴 stb7.5.8 等 |
 
+### 相关工具下载（网盘）
+
+ZTE STB Tools 全版本安装包以及配套工具都在同一个网盘分享中：
+
+- **下载链接**：<https://wwbug.lanzoum.com/b01n4lriub>
+- **提取密码**：`btxw`
+
+网盘内容清单：
+
+| 文件 | 说明 |
+|---|---|
+| ZTE_STB_Tools_V1.1.0_T07 | 老版本调试工具 |
+| ZTE_STB_Tools_V2.0.0_T02 | 调试工具 |
+| ZTE_STB_Tools_V2.0.0_T04 | 调试工具 |
+| ZTE_STB_Tools_V2.1.1_T02 | 调试工具（注册码用"2.1.1/8.1.1 通用版"） |
+| ZTE_STB_Tools_V8.1.1_C02 | 调试工具（注册码用"2.1.1/8.1.1 通用版"） |
+| 中兴 stb7.5.8 | 调试工具 |
+| 开心电视助手 9.0 | 激活后用于向盒子安装/管理 app |
+
+推荐搭配：先用本工具算号激活 ZTE STB Tools → 打开机顶盒 ADB 权限 → 用开心电视助手 9.0 安装当贝桌面、投屏软件等应用。
+
 ### 使用方法
 
 1. 运行 ZTE STB Tools，获取机器特征码（`sq` 开头的整串）
@@ -94,6 +115,27 @@ This program is a **one-click key generator** for the ZTE STB Tools series — d
 |---|---|
 | 2.1.1 / 8.1.1 universal | ZTE_STB_Tools_V2.1.1_T02, V8.1.1_C02 |
 | All-versions variant | V1.1.0_T07, V2.0.0_T02, V2.0.0_T04, ZTE stb7.5.8, etc. |
+
+### Related downloads (cloud drive)
+
+All ZTE STB Tools installers and companion tools are shared in one cloud-drive folder:
+
+- **Link**: <https://wwbug.lanzoum.com/b01n4lriub>
+- **Access code**: `btxw`
+
+Contents:
+
+| File | Notes |
+|---|---|
+| ZTE_STB_Tools_V1.1.0_T07 | Older debug tool |
+| ZTE_STB_Tools_V2.0.0_T02 | Debug tool |
+| ZTE_STB_Tools_V2.0.0_T04 | Debug tool |
+| ZTE_STB_Tools_V2.1.1_T02 | Debug tool (use the 2.1.1/8.1.1 universal code) |
+| ZTE_STB_Tools_V8.1.1_C02 | Debug tool (use the 2.1.1/8.1.1 universal code) |
+| ZTE stb7.5.8 | Debug tool |
+| Kaixin TV Assistant 9.0 | For installing/managing TV apps after activation |
+
+Recommended workflow: activate ZTE STB Tools with this generator → enable ADB on the box → use Kaixin TV Assistant 9.0 to install Dangbei launcher, screen-mirroring apps, etc.
 
 ### Usage
 
