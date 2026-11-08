@@ -1,0 +1,21 @@
+# Build output
+bin/
+obj/
+x64/
+*.exe
+!ZTE_STB_Tools+一键算号机.exe
+
+# Visual Studio / VS Code cache
+.vs/
+*.user
+*.suo
+*.ncb
+*.opendb
+*.db
+*.ipch
+
+# Test artifacts
+verify/*.exe
+verify/*.obj
+selftest_result.txt
+selftest_steps.txt
